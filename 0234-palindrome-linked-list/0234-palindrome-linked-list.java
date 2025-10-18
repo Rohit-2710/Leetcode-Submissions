@@ -19,11 +19,15 @@ class Solution {
         }
         s=s.trim();
 
-        StringBuilder sb = new StringBuilder(s);
-        String rev =sb.reverse().toString();
+        int l=0,r=(s.length()-1);
 
-        return s.equals(rev);
-        
-        
+        while(l<r){
+            if(s.charAt(l)!=s.charAt(r)){
+                return false;
+            }
+            l+=1;
+            r-=1;
+        }
+        return true;
     }
 }
