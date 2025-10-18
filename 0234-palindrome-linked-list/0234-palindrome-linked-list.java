@@ -10,24 +10,43 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        
-        String s=""+head.val;
-        ListNode node =head;
-        while(node.next!=null){
-            node=node.next;
-            s=s+node.val;
+
+        if(head==null || head.next==null){
+            return true;
         }
-        s=s.trim();
+        
+        ListNode slow=head,fast=head;
 
-        int l=0,r=(s.length()-1);
+        while(fast.next!=null && fast.next.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
+        }
 
-        while(l<r){
-            if(s.charAt(l)!=s.charAt(r)){
+        ListNode rev=reverseList(slow);
+        fast=head;
+
+        while(fast!=null && rev!=null){
+            if(fast.val!=rev.val){
                 return false;
             }
-            l+=1;
-            r-=1;
+            fast=fast.next;
+            rev=rev.next;
         }
         return true;
+
+    }
+
+    public ListNode reverseList(ListNode head){
+        ListNode prev = null;
+        ListNode curr=head;
+
+        while(curr!=null){
+        ListNode nextNode = curr.next;
+        curr.next=prev;
+        prev=curr;
+        curr=nextNode;
+        }
+
+        return prev;
     }
 }
