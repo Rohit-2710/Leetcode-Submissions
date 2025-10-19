@@ -78,11 +78,13 @@ class Solution {
 
     public ListNode mid(ListNode head){
         ListNode slow=head;
-        ListNode fast=head.next;
+        ListNode fast=head;
+        ListNode prev=null;
         while(fast!=null && fast.next!=null){
+            prev=slow;
             slow=slow.next;
             fast=fast.next.next;
         }
-        return slow;
+        return prev;
     }
 }
