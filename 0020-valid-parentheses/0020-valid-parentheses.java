@@ -8,8 +8,9 @@ class Solution {
             char c =str.charAt(i);
             if(c=='{' || c=='(' || c=='['){
                 s.push(c);
-            }
-            else if(s.empty()){
+            }else if((s.size())>l/2){
+                return false;
+            }else if(s.empty()){
                 return false;
             }else if((c=='}')&&(s.peek()!='{')){
                 return false;
@@ -22,10 +23,7 @@ class Solution {
             }
         }
 
-        if(s.empty()){
-            return true;
-        }
-        return false;
+        return s.empty();
         
     }
 }
