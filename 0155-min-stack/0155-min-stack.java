@@ -36,9 +36,6 @@ class MinStack {
     }
     
     public int getMin() {
-        if(ms.empty()){
-            return 0;
-        }
         return ms.peek();
     }
 }
