@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0146-lru-cache) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 ## Array
 |  |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0146-lru-cache) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
