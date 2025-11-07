@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
+| [0966-binary-subarrays-with-sum](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 ## Stack
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0735-asteroid-collision) |
+| [0966-binary-subarrays-with-sum](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 ## Monotonic Stack
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0966-binary-subarrays-with-sum](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -127,5 +130,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
