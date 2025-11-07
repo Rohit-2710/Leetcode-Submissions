@@ -17,8 +17,12 @@ class Solution {
                     max=Math.max(length,max);
                     r++;
                 }else{
-                    while((l<=r)&&(nums[l]==1)){
-                       l++;
+                    // while((l<=r)&&(nums[l]==1)){
+                    //    l++;
+                    // }
+                    if((l<=r)&&(nums[l]==1)){
+                        l++;
+                        continue;
                     }
                     if((l<=r)&&(nums[l]==0)){
                         k++;
