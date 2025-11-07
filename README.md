@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0735-asteroid-collision) |
+| [1046-max-consecutive-ones-iii](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -118,4 +119,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
