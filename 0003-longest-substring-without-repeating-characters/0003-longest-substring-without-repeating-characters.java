@@ -17,7 +17,7 @@ class Solution {
                     maxLength=length;
                 }
                 hm.put(val,true);
-            r++;
+                r++;
             }
         }
         return maxLength;
