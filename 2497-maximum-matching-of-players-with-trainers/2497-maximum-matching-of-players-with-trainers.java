@@ -7,7 +7,10 @@ class Solution {
         int p=0,t=0;
         int count =0;
 
-        while(p<players.length && t<trainers.length){
+        int pl=players.length;
+        int tl=trainers.length;
+
+        while(p<pl && t<tl){
              if(players[p]<=trainers[t]){
                 count++;
                 p++;
