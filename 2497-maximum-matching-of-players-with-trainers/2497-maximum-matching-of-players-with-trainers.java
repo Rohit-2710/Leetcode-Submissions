@@ -8,15 +8,11 @@ class Solution {
         int count =0;
 
         while(p<players.length && t<trainers.length){
-           while(t<trainers.length&&players[p]>trainers[t]){
-            t++;
-           }
-           if(t<trainers.length && players[p]<=trainers[t]){
-             count+=1;
-             p++;
-             t++;
-           }
-
+             if(players[p]<=trainers[t]){
+                count+=1;
+                p+=1;
+             }
+             t+=1;
         }
         return count;
     }
