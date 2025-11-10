@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Recursion
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0148-sort-list) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Merge Sort
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0735-asteroid-collision) |
 | [0966-binary-subarrays-with-sum](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -132,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
+## Greedy
+|  |
+| ------- |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
