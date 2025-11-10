@@ -9,10 +9,10 @@ class Solution {
 
         while(p<players.length && t<trainers.length){
              if(players[p]<=trainers[t]){
-                count+=1;
-                p+=1;
+                count++;
+                p++;
              }
-             t+=1;
+             t++;
         }
         return count;
     }
