@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0908-middle-of-the-linked-list) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0189-rotate-array](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0503-next-greater-element-ii) |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Rohit-2710/Leetcode-Submissions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
